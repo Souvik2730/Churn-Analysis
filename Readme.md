@@ -8,33 +8,31 @@ The workflow integrates:
 - **Python** → for exploratory analysis, churn risk segmentation, and visualization  
 - **Power BI** → for an interactive dashboard to track churn KPIs and support business decisions  
 
-🔗 [View Python Analysis in Google Colab](https://colab.research.google.com/drive/1ZixuAYXX3ABaC9kjh8j_Hy00A9H3SbPQ?usp=sharing)  
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/Churn-Analysis/blob/main/risk_score.ipynb)
 ---
 
 
 ### 3. **Screenshots Section (for Graphs and Power BI Dashboard)**
 
-```markdown
 ## Visualizations
 
 Below are some screenshots from the Python analysis and the Power BI dashboard:
 
 ### Python Plots:
-![Customer Engagement by Risk Band](./images/engagement_by_risk_band.png)
+![Customer Engagement by Risk Band](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001806.png)
 *Engagement levels of customers categorized by risk band.*
 
-![Monthly Churn Rate Trend](./images/monthly_churn_rate_trend.png)
+![Monthly Churn Rate Trend](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001710.png)
 *Monthly churn rate trend analysis.*
 
 ### Power BI Dashboard:
-![Churn Risk Overview Dashboard](./images/churn_risk_overview_dashboard.png)
+![Churn Risk Overview Dashboard](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001907.png)
 *Power BI dashboard showing churn risk overview.*
 
-![Customer Retention by Cohort](./images/customer_retention_by_cohort.png)
+![Customer Retention by Cohort](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20002100.png)
 *Customer retention analysis based on cohorts.*
 
-![Customer Level Details](./images/customer_level_details.png)
+![Customer Level Details](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20002207.png)
 *Detailed customer-level analysis based on their activity, payment, and risk band.*
 
 
@@ -131,3 +129,4 @@ To run this project locally:
 4. Launch Jupyter/Colab Notebook → for churn risk analysis
 
 5. Open Power BI file (.pbix) → to explore the interactive dashboard
+
