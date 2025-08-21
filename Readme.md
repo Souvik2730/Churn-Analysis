@@ -11,12 +11,18 @@ The workflow integrates:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/Churn-Analysis/blob/main/risk_score.ipynb)
 ---
 
+## 📊 Dashboard Preview  
 
-### 3. **Screenshots Section (for Power BI Dashboard and Graphs)**
+⚡ Power BI Dashboard provides real-time view of:  
+- Customer distribution by region and plan
+- Retention analysis based on signup months and active months
+- Detailed customer-level analysis based on their activity, payment, and risk band 
 
-## Visualizations
+⚡ Python Graph provides real-time view of:
+- Customer engagement levels by risk band
+- Monthly churn rate trend analysis
 
-Below are some screenshots from the Python analysis and the Power BI dashboard:
+Below are some screenshots from the Power BI dashboard and the Python analysis:
 
 ### Power BI Dashboard:
 ![Churn Risk Overview Dashboard](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001907.png)
@@ -99,18 +105,6 @@ Interactive visuals for:
 
 ---
 
-## 📊 Dashboard Preview  
-
-⚡ Power BI Dashboard provides real-time view of:  
-- Churn trends over time  
-- Retention across plans/regions  
-- Cohort heatmaps (retention lifecycle)  
-- High-risk customer lists for targeted action  
-
-(👉 Add screenshots of your dashboard here for better recruiter visibility)
-
----
-
 ## ⚙️ Setup Instructions  
 
 To run this project locally:  
@@ -128,5 +122,6 @@ To run this project locally:
 4. **Launch Jupyter/Colab Notebook** → for churn risk analysis
 
 5. **Open Power BI file (.pbix)** → to explore the interactive dashboard
+
 
 
