@@ -1,4 +1,5 @@
 # 📊 Customer Churn Analysis  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/Churn-Analysis/blob/main/risk_score.ipynb)
 
 ## 📝 Overview  
 This project analyzes **customer churn in a subscription-based business model** to identify at-risk customers, understand churn drivers, and recommend retention strategies.  
@@ -7,8 +8,6 @@ The workflow integrates:
 - **SQL** → for structured data extraction, churn calculation, and cohort building  
 - **Python** → for exploratory analysis, churn risk segmentation, and visualization  
 - **Power BI** → for an interactive dashboard to track churn KPIs and support business decisions  
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/Churn-Analysis/blob/main/risk_score.ipynb)
 ---
 
 ## 📊 Dashboard Preview  
@@ -122,6 +121,7 @@ To run this project locally:
 4. **Launch Jupyter/Colab Notebook** → for churn risk analysis
 
 5. **Open Power BI file (.pbix)** → to explore the interactive dashboard
+
 
 
 
