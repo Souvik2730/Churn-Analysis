@@ -12,18 +12,11 @@ The workflow integrates:
 ---
 
 
-### 3. **Screenshots Section (for Graphs and Power BI Dashboard)**
+### 3. **Screenshots Section (for Power BI Dashboard and Graphs)**
 
 ## Visualizations
 
 Below are some screenshots from the Python analysis and the Power BI dashboard:
-
-### Python Plots:
-![Customer Engagement by Risk Band](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001806.png)
-*Engagement levels of customers categorized by risk band.*
-
-![Monthly Churn Rate Trend](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001710.png)
-*Monthly churn rate trend analysis.*
 
 ### Power BI Dashboard:
 ![Churn Risk Overview Dashboard](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001907.png)
@@ -35,6 +28,12 @@ Below are some screenshots from the Python analysis and the Power BI dashboard:
 ![Customer Level Details](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20002207.png)
 *Detailed customer-level analysis based on their activity, payment, and risk band.*
 
+### Python Plots:
+![Customer Engagement by Risk Band](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001806.png)
+*Engagement levels of customers categorized by risk band.*
+
+![Monthly Churn Rate Trend](https://github.com/Souvik2730/Churn-Analysis/blob/main/Screenshots/Screenshot%202025-08-22%20001710.png)
+*Monthly churn rate trend analysis.*
 
 ---
 
@@ -121,12 +120,13 @@ To run this project locally:
    git clone https://github.com/yourusername/customer-churn-analysis.git
    cd customer-churn-analysis
 
-2. Install Python dependencies
+2. **Install Python dependencies**
    pip install -r requirements.txt
 
-3. Run SQL scripts → to set up database tables & views
+3. **Run SQL scripts** → to set up database tables & views
 
-4. Launch Jupyter/Colab Notebook → for churn risk analysis
+4. **Launch Jupyter/Colab Notebook** → for churn risk analysis
 
-5. Open Power BI file (.pbix) → to explore the interactive dashboard
+5. **Open Power BI file (.pbix)** → to explore the interactive dashboard
+
 
