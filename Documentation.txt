@@ -1,0 +1,62 @@
+# 📊 Customer Churn Analysis – Project Explanation (STAR Framework)
+
+## ⭐ Situation  
+Customer churn is a **major challenge for subscription-based businesses**. When users cancel their subscriptions or stop paying, it directly impacts recurring revenue and long-term growth.  
+This project was designed to **analyze churn behavior**, identify **at-risk customers**, and provide **actionable retention strategies** to improve customer lifetime value.
+
+---
+
+## 🎯 Task  
+The main objective was to:  
+- Detect customers who are likely to churn.  
+- Understand **why churn occurs** by analyzing subscription data, engagement patterns, support interactions, and transactions.  
+- Present insights through **SQL queries, Python analysis, and an interactive Power BI dashboard** for business decision-makers.  
+
+Key challenges:  
+- Extracting and transforming raw data from multiple sources (CSV files).  
+- Designing churn detection logic and retention analysis.  
+- Communicating results in a clear, **business-focused visualization**.
+
+---
+
+## ⚙️ Action  
+
+### 🔹 SQL Database & Queries  
+- Created **SQL tables** for customers, subscriptions, transactions, logins, and support tickets.  
+- Wrote **queries** to:  
+  - Calculate **Monthly Recurring Revenue (MRR)**.  
+  - Identify **active vs. churned customers** month-over-month.  
+  - Perform **cohort analysis** to track retention trends.  
+- Built **views** for easy churn tracking and active customer monitoring.  
+
+### 🔹 Python Analysis  
+- Used **pandas** and **numpy** for data wrangling.  
+- Performed **Cohort Analysis** (grouping customers by signup month to measure retention).  
+- Applied **churn risk scoring** to classify customers into **Low, Medium, and High Risk** segments.  
+- Built **visualizations** with `matplotlib` and `seaborn` to highlight churn patterns, engagement trends, and churn by region/plan.  
+
+### 🔹 Power BI Dashboard  
+- Designed an **interactive dashboard** to showcase:  
+  - Churn rate trends  
+  - Retention by region & plan  
+  - Cohort-based retention analysis  
+  - Customer segmentation (low/medium/high risk)  
+- Enabled **drill-down capabilities** for decision-makers to explore detailed customer insights.
+
+---
+
+## 📈 Result  
+The project delivered **clear and actionable insights** for business strategy:  
+
+- 🔺 **Churn Risk**: Customers on **Premium Plans with low engagement** showed the highest churn likelihood.  
+- 🌍 **Regional & Plan Patterns**: Certain regions and higher-priced plans had significantly higher churn.  
+- 📊 **Engagement Insights**: High engagement correlated strongly with low churn, highlighting the importance of usage-focused retention campaigns.  
+- 📌 **Impact**: The Power BI dashboard provided a **real-time, data-driven decision-making tool**, empowering the company to:  
+  - **Prioritize retention campaigns** for high-risk customers.  
+  - **Enhance onboarding experiences** to reduce early churn.  
+  - **Test flexible pricing strategies** for premium customers.  
+
+---
+
+✅ **Business Value**:  
+This analysis equips businesses with the ability to **predict churn before it happens**, saving revenue, improving retention, and ultimately driving **sustainable growth**.
