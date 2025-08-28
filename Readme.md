@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis  
+# 📊 Customer Churn Risk Analysis  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/Churn-Analysis/blob/main/risk_score.ipynb)
 
 ## 📝 Overview  
@@ -121,6 +121,7 @@ To run this project locally:
 4. **Launch Jupyter/Colab Notebook** → for churn risk analysis
 
 5. **Open Power BI file (.pbix)** → to explore the interactive dashboard
+
 
 
 
